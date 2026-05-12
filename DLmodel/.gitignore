@@ -1,0 +1,5 @@
+/.idea/
+.DS_Store
+TL_model/
+results_TL_model/
+*/__pycache__/

@@ -1,0 +1,2 @@
+Cutoff,TP_Total,FP_Total,FN_Total,Precision_Global,Recall_Global,FDR_Global,Total_Amostras_Positivas,Total_Amostras_Negativas_Classificadas
+0.95,73,90,2,0.44785276073619634,0.9733333333333334,0.5521472392638037,75,90
