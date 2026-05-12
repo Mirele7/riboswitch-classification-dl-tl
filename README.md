@@ -6,6 +6,7 @@ learning (DL) and transfer learning (TL) approaches.
 
 ## Repository Structure
 
+```
 riboswitch-classification-dl-tl/
 ├── DLmodel/
 │   ├── models/        # Trained GNN model weights
@@ -21,6 +22,7 @@ riboswitch-classification-dl-tl/
 │   └── requirements.txt
 ├── train_data/        # Training sequences with species and Rfam family annotations
 └── test_data/         # Sliding windows generated for each test riboswitch sequence
+```
 
 ## Datasets
 
