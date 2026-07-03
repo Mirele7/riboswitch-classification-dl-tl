@@ -12,12 +12,14 @@ riboswitch-classification-dl-tl/
 │   ├── models/        # Trained GNN model weights
 │   ├── results_model/ # Classification results
 │   ├── src/           # Source code
+│   ├── data/          # Training and test datasets
 │   ├── README.md
 │   └── requirements.txt
 ├── TL_model/
 │   ├── models/        # Trained GNN model weights (transfer learning)
 │   ├── results_model/ # Classification results
 │   ├── src/           # Source code
+│   ├── data/          # Training and test datasets
 │   ├── README.md
 │   └── requirements.txt
 ├── train_data/        # Training sequences with species and Rfam family annotations
